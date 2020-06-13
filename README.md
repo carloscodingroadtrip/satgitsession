@@ -1,2 +1,4 @@
-# satgitsession
-Git Session
+# GIT Session
+
+Learning about branching and merges.
+
